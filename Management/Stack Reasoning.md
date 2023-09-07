@@ -19,22 +19,25 @@ Here are some reasons for this decision:
 	- Does not provide the templates and addons React provides
 	- less popular
 
-==this has been discussed with Leon and he liked it alot== 
+**this has been discussed with Leon and he liked it alot**
 
+![alt text](Frameworktrends.png) 
+ 
+ 
 # Our choice for backend
 We wanted to make the choice between Java and Python because these are 2 major programming languages. C# quickly fell off as a programming language for us because we wanted to learn something new. We have already used C# in previous semesters. We first listed the pros and cons of Java and Python:
 
 ## Advantages Java:
--It’s popular so it has a large community for tips and help with problems
+- It’s popular so it has a large community for tips and help with problems
 Disadvantages Java:
--Not necessarily good in terms of performance
--Decreasing popularity, so perhaps more difficult in terms of maintainability in the future.
--"Difficult" to learn
+- Not necessarily good in terms of performance
+- Decreasing popularity, so perhaps more difficult in terms of maintainability in the future.
+- "Difficult" to learn
 
 ## Advantages Python:
--Easy to learn
--Compared to Java little code for the same functionality
+- Easy to learn
+- Compared to Java little code for the same functionality
 Disadvantages Python:
--Knowledge not very useful for other languages
+- Knowledge not very useful for other languages
 
 Our final choice fell on Python because of its emerging popularity. We think it is important to learn Python because it will be in high demand in the future. It is also easy to integrate AI. Python is also very flexible.
