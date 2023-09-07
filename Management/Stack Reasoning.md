@@ -20,10 +20,12 @@ Here are some reasons for this decision:
 	- less popular
 ![image](https://github.com/TravelXPToday/Portfolio/assets/113422379/90a725d2-1878-4cbc-91ec-9d026fbbaab9)
 LEGENDA
+
 - Blue = Angular
 - Red = React
 - Yellow = Vue
 - Purple = Svelte
+  
 **this has been discussed with Leon and he liked it alot**
 
 # Our choice for backend
