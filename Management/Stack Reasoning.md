@@ -1,11 +1,11 @@
 # Our Choice  for front-end
-We have decided to use [[PRO React|React]]
+We have decided to use React
 Here are some reasons for this decision:
- - The Most popular [[PRO JavaScript MOC]] framework.
+ - The Most popular PRO JavaScript MOC framework.
  - Has extensive userbase what creates a lot of documentation.
  - Works with components and hooks what is useful to learn for the rest of my journey
  - uses a virtual DOM and this is faster most of the time.
- - Want to look at [[PRO NextJs 13|NextJs]]  and this uses React.
+ - Want to look at NextJs  and this uses React.
 
 ## These frameworks didn't make it.
 - Svelte:
@@ -13,7 +13,7 @@ Here are some reasons for this decision:
 	- Is light weight.
 	- Easy to learn.
 	- sadly enough it is still very small and niche. This wont create as much job opportunities in the future.
-	- Me(Art Nooijen) might implement this during my research to see how well this works.
+	- I(Art Nooijen) might implement this during my research to see how well this works.
 - Vue:
 	- scales better than React 
 	- Does not provide the templates and addons React provides
