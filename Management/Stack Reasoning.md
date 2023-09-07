@@ -20,8 +20,6 @@ Here are some reasons for this decision:
 	- less popular
 
 **this has been discussed with Leon and he liked it alot**
-
-![alt text](Frameworktrends.png) 
  
  
 # Our choice for backend
