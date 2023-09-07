@@ -20,8 +20,7 @@ Here are some reasons for this decision:
 	- less popular
 
 **this has been discussed with Leon and he liked it alot**
- 
- 
+
 # Our choice for backend
 We wanted to make the choice between Java and Python because these are 2 major programming languages. C# quickly fell off as a programming language for us because we wanted to learn something new. We have already used C# in previous semesters. We first listed the pros and cons of Java and Python:
 
