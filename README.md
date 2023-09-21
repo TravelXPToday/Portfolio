@@ -4,7 +4,7 @@
 (Travel Selfie, n.d.) [^1]
 
 # Portfolio
-*Bye Art Nooijen and Jelle Manders*
+*By Art Nooijen and Jelle Manders*
 # TravelXPToday
 ### Description
  > Discover the joy of shared adventures with  Our platform brings friends together, allowing everyone to contribute to a single journey. As you explore, each member can add their own experiences, photos, and memories, creating a collective travel diary. Dive into our interactive dashboard to relive group adventures and see the tapestry of stories you've woven together. Plus, challenge yourselves with unique badges to earn as a team. 
