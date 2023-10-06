@@ -16,19 +16,7 @@
 #### Here you can find:
 - [Back-End](https://github.com/TravelXPToday/Backend/blob/main/README.md)
 - [Front-End](https://github.com/TravelXPToday/Frontend/blob/main/README.md)
-### how to start the program
-To run the React app, run the following commands in the terminal:
-```bash
-cd TravelXPToday
-npm install
-npm start
-```
-To run the Flask app, run the following commands in the terminal:
-```bash
-cd API
-pip install -r requirements.txt
-python app.py
-```
+
 
 Our Services mappings:
 
