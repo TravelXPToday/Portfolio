@@ -51,5 +51,10 @@ For the journey service:
 |You analyze and describe simple business processes that are related to your project.| Undefined |
 |You act in a professional manner during software development and learning.| Orienting | We are using Github Board (Kanban) with our backlog, current sprint and review tab. We also made a definition of done so its clear for both of us when a subject is really done. We also made a coorperation contract with a couple of rules to improve the coorperation between Art and Jelle.
 
+
+# Research
+We have done research about the following subjects:
+- API-Keys see [🔗]()
+- UX-UI see [🔗]()
 #### Sources:
 [^1]: Travel Selfie. (n.d.). Dribbble. https://dribbble.com/shots/2350607-Travel-Selfie
