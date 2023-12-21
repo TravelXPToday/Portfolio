@@ -1,4 +1,3 @@
-
 <img src="https://i.pinimg.com/originals/5d/3e/94/5d3e9462d91d43e0e76427d8b613e8c1.gif" alt="Italian Trulli">
 
 (Travel Selfie, n.d.) [^1]
@@ -6,6 +5,7 @@
 # Portfolio
 *By Art Nooijen and Jelle Manders*
 # TravelXPToday
+
 ### Description
  > Discover the joy of shared adventures with  Our platform brings friends together, allowing everyone to contribute to a single journey. As you explore, each member can add their own experiences, photos, and memories, creating a collective travel diary. Dive into our interactive dashboard to relive group adventures and see the tapestry of stories you've woven together. Plus, challenge yourselves with unique badges to earn as a team. 
 ## About the TravelXPToday
@@ -55,7 +55,7 @@ You recognize and take into account cultural differences between project stakeho
 
 # Research
 We have done research about the following subjects:
-- API-Keys see [🔗]()
-- UX-UI see [🔗]()
+- API-Keys see [🔗](https://github.com/TravelXPToday/Portfolio/blob/main/Research/Security%20research.pdf)
+- UX-UI see [🔗](https://github.com/TravelXPToday/Portfolio/blob/main/Research/UX_UI%20Research.pdf)
 #### Sources:
 [^1]: Travel Selfie. (n.d.). Dribbble. https://dribbble.com/shots/2350607-Travel-Selfie
