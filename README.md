@@ -18,15 +18,6 @@
 - [Front-End](https://github.com/TravelXPToday/Frontend/blob/main/README.md)
 
 
-Our Services mappings:
-
-For the traveler service:
-- GET <code>/traveler/{id}/</code> - Get all users
-- GET <code>/traveler/all/</code> - Get all travelers
-
-For the journey service:
-- GET <code>/journey/{id}/</code> - Get all journeys
-- GET <code>/journey/all/</code> - Get all journeys
 
 ## proof of learning outcomes
 |learning Outcomes| Proof|
